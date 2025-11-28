@@ -72,12 +72,12 @@ exit
 
 Clone the repository:
 
-git clone https://github.com/<username>/<repo>.git
+git clone https://github.com/Xcode83/crud-dd-task-mean-app.git
 cd repo
 docker compose up -d
 
 Application Access
-http://<EC2_PUBLIC_IP>/
+http://65.1.92.247
 
 CI/CD Workflow
 
