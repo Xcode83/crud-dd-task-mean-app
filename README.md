@@ -50,7 +50,7 @@ docker compose up -d
 
 Open in browser:
 
-http://localhost/
+http://65.1.92.247
 
 2. Cloud Deployment (AWS EC2)
 Requirements
